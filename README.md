@@ -17,5 +17,18 @@ Once the extension is installed, you can open the sidebar via context menu or ke
 
 Default Keyboard Shortcut: Ctrl+Shift+Y
 
-*Note: You can change the keyboard shortcuts from the extension settings on the [Chrome Extension Management page](chrome://extensions/shortcuts).*
+*Note: You can change the keyboard shortcuts from the extension settings on the [Chrome Extension - Keybord Shortcuts page](chrome://extensions/shortcuts).
 
+
+## Models
+### Supported Models
+| Model | Parameters | Size | Download Command |
+| --- | --- |
+| Llama 3.3 | 70B | 43GB | `ollama run llama3.3` |
+
+
+### Recommended Models
+
+
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
