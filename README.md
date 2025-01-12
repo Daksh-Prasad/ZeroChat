@@ -17,5 +17,5 @@ Once the extension is installed, you can open the sidebar via context menu or ke
 
 Default Keyboard Shortcut: Ctrl+Shift+Y
 
-*Note: You can change the keyboard shortcuts from the extension settings on the Chrome Extension Management page.*
+*Note: You can change the keyboard shortcuts from the extension settings on the (Chrome Extension Management page.)[chrome://extensions/shortcuts]*
 
