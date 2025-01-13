@@ -23,7 +23,7 @@ Default Keyboard Shortcut: Ctrl+Shift+Y
 ## Models
 ### Supported Models
 | Model | Parameters | Size | Download Command |
-| --- | --- |
+| --- | --- | --- | --- |
 | Llama 3.3 | 70B | 43GB | `ollama run llama3.3` |
 
 
